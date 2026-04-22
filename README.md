@@ -41,7 +41,3 @@ Key Skills Demonstrated
 - Machine Learning Model Building  
 - Model Evaluation (R², RMSE)  
 - Basic Deployment with Streamlit  
-
-## ▶️ How to Use
-
-1. Clone the repository:
