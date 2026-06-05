@@ -50,7 +50,7 @@ This repository showcases practical implementations of ML concepts:
 
 - Add more ML projects  
 - Improve model performance  
-- Deploy projects on cloud platforms  
+- Deploy projects on cloud platforms
 
 ---
 
